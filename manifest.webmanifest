@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Bills",
+ "short_name": "Bills",
+ "description": "an ADHD bill tracker: every bill on one calendar, a paid / unpaid board you clear with one tap, alerts three days before a late fee, an autopay audit that tells you what actually comes out of which account, and a subscription cleanup that adds up what you forgot you pay for. Nothing leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
